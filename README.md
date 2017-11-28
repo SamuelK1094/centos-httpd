@@ -1,5 +1,5 @@
 ## Instalación de Apache2 en contenedor
-1. Hemos creado un DockerFile donde configuramos la instalación de nuestra máquina Centos7
-2. Hemos construido una imagen apartir del DockerFile
-3. Hemos Creado un contenedor apartir de la imagen
+1. _Hemos creado un DockerFile donde configuramos la instalación de nuestra máquina Centos7_
+2. _Hemos construido una imagen apartir del DockerFile_
+3. _Hemos Creado un contenedor apartir de la imagen_
 
