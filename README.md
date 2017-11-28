@@ -3,5 +3,5 @@
 2. _Hemos construido una imagen apartir del DockerFile_
  * DOCKER BUILD
 3. _Hemos Creado un contenedor apartir de la imagen_
-  *DOCKER RUN
+ * DOCKER RUN
 
